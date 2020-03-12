@@ -22,3 +22,8 @@ This project is used to fix problems in the version 4.2.3 of the OpenAPI code ge
 		</dependencies>
 	</plugin>
 ```
+## Fixes
+
+### Use baseName also for @RequestLine template names
+
+see [#4883](https://github.com/OpenAPITools/openapi-generator/pull/4883)
